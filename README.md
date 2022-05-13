@@ -1,2 +1,1 @@
-# CL
-dialogue generation + continual learning
+# Domain-incremental learning for response generator
